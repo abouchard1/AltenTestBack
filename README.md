@@ -21,7 +21,10 @@ cd altenBackend
 It's recommended to use a virtual environment to manage dependencies.
 
 ### Step 3: Install Dependencies
-Install the required Python packages using pipenv install.
+Install the required Python packages.
+```bash
+pipenv install
+```
 
 ### Step 4: Run the Application
 Provide the command to start the Flask server.
