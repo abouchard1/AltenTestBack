@@ -28,3 +28,10 @@ pipenv install
 
 ### Step 4: Run the Application
 Provide the command to start the Flask server.
+```bash
+python.exe main.py
+```
+## API Endpoints: Swagger Docs
+### 1. Show the swagger
+- **Endpoint**: `GET http://localhost:3000/`
+- **Description**: Retrieves a list of all endpoints.
